@@ -6,7 +6,7 @@ This document outlines the organizer roles for the PyATL community.
 ## Contributing
 
 ```
-git clone git@github.com/pyatl/organizer-roles-resp
+git clone git@github.com:pyatl/organizers-roles-resp.git
 git checkout -b branch-name-describing-changes
 cd organizer-roles-resp
 ... Make changes to roles.md
